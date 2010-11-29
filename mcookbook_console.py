@@ -1,0 +1,1 @@
+print "Soy el programa de consola"

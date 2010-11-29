@@ -1,0 +1,1 @@
+print "soy el nucleo"
